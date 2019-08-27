@@ -1,7 +1,7 @@
 Hello ,
-from Team - 7
 
-The game is not finshed in teams of UI 
+
+The game is not finshed in terms of UI 
 Sometimes it takes 2 times to complie the code so please try again if it does not execute 
 
 
@@ -20,4 +20,4 @@ https://pythonprogramming.net/pygame-python-3-part-1-intro/
 
 Thank you,
 
-Team-7
+Arjun
